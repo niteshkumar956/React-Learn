@@ -11,7 +11,7 @@ export default function Home() {
                             Download Now
                             <span className="hidden sm:block text-4xl">Lorem Ipsum</span>
                         </h2>
-
+<img  />
                         <Link
                             className="inline-flex text-white items-center px-6 py-3 font-medium bg-orange-700 rounded-lg hover:opacity-75"
                             to="/"
